@@ -123,7 +123,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](image/out.png)
+![OUTPUT](mypro/static/images/out.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](mypro/static/images/valid.png)
